@@ -2,10 +2,10 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'learn-carrier-page',
-  templateUrl: './carrier.page.html',
-  styleUrls: ['./carrier.page.scss']
+  templateUrl: './carrier-page.component.html',
+  styleUrls: ['./carrier-page.component.scss']
 })
-export class CarrierPage implements OnInit {
+export class CarrierPageComponent implements OnInit {
 
   constructor() { }
 

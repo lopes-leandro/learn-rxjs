@@ -2,12 +2,12 @@ import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
 import { CarrierRoutingModule } from './carrier-routing.module';
-import { CarrierPage } from './pages/carrier.page';
+import { CarrierPageComponent } from './carrier-page/carrier-page.component';
 
 
 @NgModule({
   declarations: [
-    CarrierPage
+    CarrierPageComponent
   ],
   imports: [
     CommonModule,

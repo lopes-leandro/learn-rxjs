@@ -1,4 +1,4 @@
-import { Component, OnInit, HostBinding } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'learn-header',
@@ -7,7 +7,6 @@ import { Component, OnInit, HostBinding } from '@angular/core';
 })
 export class HeaderComponent implements OnInit {
 
-  @HostBinding('class.cds--header') headerClass = true;
   constructor() { }
 
   ngOnInit(): void {

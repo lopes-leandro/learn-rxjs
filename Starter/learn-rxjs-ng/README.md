@@ -5,6 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Bibliotecas de Terceiros
 
 [!Carbon Design System](https://carbondesignsystem.com/developing/angular-tutorial/overview/)
+
 [!NPM Carbon Design System](https://www.npmjs.com/package/carbon-components-angular/v/4.75.3)
 
 
