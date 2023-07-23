@@ -1,20 +1,20 @@
+import { CarrierPage } from './carrier.page';
 import { ComponentFixture, TestBed } from '@angular/core/testing';
-import { HeaderComponent } from './header.component';
 
-describe('HeaderComponent', () => {
-  let component: HeaderComponent;
-  let fixture: ComponentFixture<HeaderComponent>;
+
+describe('CarrierPage', () => {
+  let component: CarrierPage;
+  let fixture: ComponentFixture<CarrierPage>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ HeaderComponent ],
-      imports:[]
+      declarations: [ CarrierPage ]
     })
     .compileComponents();
   });
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(HeaderComponent);
+    fixture = TestBed.createComponent(CarrierPage);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

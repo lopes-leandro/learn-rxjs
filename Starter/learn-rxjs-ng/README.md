@@ -1,8 +1,12 @@
-# LearnRxjsNg
+# Aprendendo RxJS com Angular 12
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.17.
 
-## Development server
+## Bibliotecas de Terceiros
+
+[!Carbon Design System](https://carbondesignsystem.com/developing/angular-tutorial/overview/)
+[!NPM Carbon Design System](https://www.npmjs.com/package/carbon-components-angular/v/4.75.3)
+
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
